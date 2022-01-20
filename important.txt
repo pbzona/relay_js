@@ -1,0 +1,7 @@
+One important thing to check is whether the flags you are trying to evaluate have been enabled for client side SDKs.
+
+To verify:
+1. Go to the flag you are trying to use
+2. Go to the Settings tab
+3. Scroll down to the section titled "Client-side SDK availability"
+4. Ensure the box titled "SDKs using Client-side ID" is checked
